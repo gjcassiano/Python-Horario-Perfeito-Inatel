@@ -13,8 +13,8 @@ tentrar = "ctl00$Corpo$TabAcessoLogin$TabAluno$LogOn$LoginButton"
 materia = 12#materia de enteresse
 nturma = 2 #turma de enteresse
 curso = 2 #1-eletrica 2-computacao 3-telecomunicações 4-Biomedica 5-Automação
-matricula = 828 
-senha = "201947"
+matricula = 0 
+senha = ""
 
 def logar():
     global browser,tcurso,tmatricula,tsenha,tentrar,curso,matricula,senha
